@@ -1,1 +1,0 @@
-/usr/bin/c++    -std=c++11    CMakeFiles/test.dir/src/test/test.cpp.o  -o test -rdynamic libcppipm.so -Wl,-rpath,/home/erik/Code/cppipm/build 

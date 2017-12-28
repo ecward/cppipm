@@ -1,0 +1,3 @@
+/home/erik/Code/cppipm/build/CMakeFiles/cppipm.dir
+/home/erik/Code/cppipm/build/CMakeFiles/run_tests.dir
+/home/erik/Code/cppipm/build/CMakeFiles/test.dir
